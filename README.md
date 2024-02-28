@@ -2,7 +2,9 @@
 
 ## Preview ##
 
-This preview has been done using Vuetify. You can see a preview by cloning the repository in local, using a bash terminal and running it. 
+This preview has been done using Vuetify. 
+
+You can see a preview by cloning the repository in local, using a bash terminal and running it. 
 During my tests, I did it using the package manager npm, and running it in developper mode with the command:
 ```
 npm run dev
